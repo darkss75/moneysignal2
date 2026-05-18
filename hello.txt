@@ -12,3 +12,5 @@ Hello! Git 테스트 중입니다~
 
 그중에도 제일 중요한것은 작업 이후에 제목을 
 
+[feature/branch-practice] 브랜치에서 수정한 줄입니다.
+
